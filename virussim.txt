@@ -456,3 +456,314 @@ Number of recovered individuals: 0
 Number of susceptible individuals: 0
 Ratio of infected individuals to total number of individuals: 1:1
 
+This is what the grid will start as.
+SSIS
+SSSS
+SSSS
+SSSS
+Number of infected individuals: 1
+Number of recovered individuals: 0
+Number of susceptible individuals: 15
+Ratio of infected individuals to total number of individuals: 1:16
+The following grids will show the results of the program running 30 times.
+
+Step 1:
+SIIS
+SSSS
+SSSS
+SSSS
+Number of infected individuals: 2
+Number of recovered individuals: 0
+Number of susceptible individuals: 14
+Ratio of infected individuals to total number of individuals: 1:8
+
+Step 2:
+SIIS
+SSIS
+SSSS
+SSSS
+Number of infected individuals: 3
+Number of recovered individuals: 0
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 3:16
+
+Step 3:
+SIIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 2
+Number of recovered individuals: 1
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:8
+
+Step 4:
+SIIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 2
+Number of recovered individuals: 1
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:8
+
+Step 5:
+SIIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 2
+Number of recovered individuals: 1
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:8
+
+Step 6:
+SIIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 2
+Number of recovered individuals: 1
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:8
+
+Step 7:
+SIIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 2
+Number of recovered individuals: 1
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:8
+
+Step 8:
+SRIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 1
+Number of recovered individuals: 2
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:16
+
+Step 9:
+SRIS
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 1
+Number of recovered individuals: 2
+Number of susceptible individuals: 13
+Ratio of infected individuals to total number of individuals: 1:16
+
+Step 10:
+SRRI
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 1
+Number of recovered individuals: 3
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 1:16
+
+Step 11:
+SRRI
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 1
+Number of recovered individuals: 3
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 1:16
+
+Step 12:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 13:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 14:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 15:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 16:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 17:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 18:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 19:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 20:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 21:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 22:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 23:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 24:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 25:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 26:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 27:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 28:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 29:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+
+Step 30:
+SRRR
+SSRS
+SSSS
+SSSS
+Number of infected individuals: 0
+Number of recovered individuals: 4
+Number of susceptible individuals: 12
+Ratio of infected individuals to total number of individuals: 0:1
+

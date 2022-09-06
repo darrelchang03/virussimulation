@@ -8,8 +8,7 @@ public class VirusSimulation {
 	static StringBuilder prevIteration;
 	static StringBuilder currentIteration;
 	static double root;
-	
-	// test
+	// test comment
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);
 		int numRecovered = 0;
