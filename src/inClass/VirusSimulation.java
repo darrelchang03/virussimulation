@@ -9,7 +9,7 @@ public class VirusSimulation {
 	static StringBuilder currentIteration;
 	static double root;
 	
-
+	// test
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);
 		int numRecovered = 0;
